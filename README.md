@@ -28,6 +28,7 @@
 - [Set up PostgreSQL on WSL2 and Access with pgAdmin on Windows](https://chloesun.medium.com/set-up-postgresql-on-wsl2-and-connect-to-postgresql-with-pgadmin-on-windows-ca7f0b7f38ab?sk=ea75b812297a3f276931a7b38ef6c6ef)
 
 <br>
+
 ## ✉️Get in Touch
 <a href="https://www.linkedin.com/in/chloe-c-s-955a22114/">
   <img align="left" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
