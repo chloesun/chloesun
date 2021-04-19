@@ -21,8 +21,9 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>   
 
 ## ✉️Get in Touch
-[Medium Blog](https://chloesun.medium.com/) 
-<br>
 <a href="https://www.linkedin.com/in/chloe-c-s-955a22114/">
   <img align="left" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://chloesun.medium.com/">
+  <img align="left" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/medium.svg" />
 </a>
