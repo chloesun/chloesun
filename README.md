@@ -4,14 +4,25 @@
 
 ## 👩‍💻 About me
 - 🏗️ I'm an licensed architect in Province Ontario, Canada
-- 💻 I'm a software developer currently working on design technology with ![HOK](https://www.hok.com/), and previously with ![Shopify](https://www.shopify.com/)
+- 💻 I'm a software developer currently working on design technology with [HOK](https://www.hok.com/), and previously with [Shopify](https://www.shopify.com/)
 - 🎮 I guess I'm also a technical artist wannabe because I'm learning Houdini and Unreal engine
 - 🎨 I like to draw
 
 <br>
 
 ## 🛠️Tech Stack
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">  <img  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Python-ffd340?style=for-the-badge&logo=python&logoColor=black">
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>   
 
 ## ✉️Get in Touch
-[![Medium Badge](https://img.shields.io/badge/-@vana?style=flat&labelColor=000000&logo=Medium&link=https://chloesun.medium.com/)](https://chloesun.medium.com/) 
+[Medium Blog](https://chloesun.medium.com/) 
+<br>
+<a href="https://www.linkedin.com/in/chloe-c-s-955a22114/">
+  <img align="left" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
