@@ -30,6 +30,12 @@
 
 <br>
 
+## 🎨  My Drawings
+<a href="https://www.instagram.com/doodle_and_cuddle/">
+  <img align="left" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" />
+</a>
+
+
 ## ✉️ Get in Touch
 <a href="https://www.linkedin.com/in/chloe-c-s-955a22114/">
   <img align="left" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
