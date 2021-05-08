@@ -31,10 +31,9 @@
 <br>
 
 ## 🎨  My Drawings
-<a href="https://www.instagram.com/doodle_and_cuddle/">
-  <img align="left" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" />
-</a>
+<a href="https://www.instagram.com/doodle_and_cuddle/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @doodle_and_cuddle!</a>
 
+<br>
 
 ## ✉️ Get in Touch
 <a href="https://www.linkedin.com/in/chloe-c-s-955a22114/">
