@@ -25,6 +25,7 @@
 
 ## ✍️ My Articles
 - [Architecting the Metaverse](https://chloesun.medium.com/architecting-the-metaverse-106c962ac16d?sk=6f1aefa2d30b4993ef6a73c5ab001a1f)
+- [Why Every 3D Designer/Architect Could Benefit From the Creator Economy in the Metaverse?](https://chloesun.medium.com/why-every-3d-designer-architect-could-benefit-from-the-creator-economy-in-the-metaverse-9cbdcc8319b0)
 - [Implementation of Wave Function Collapse Algorithm in Houdini for 3D Content Generation](https://chloesun.medium.com/implementation-of-wave-function-collapse-algorithm-in-houdini-for-3d-content-generation-76f8eec573b1?sk=0bc35a1f3c18f489e9ff1c07c3aadc03)
 - [Set up Linux Dev Environment On Windows 10 Machine With WSL2, Docker, and Visual Studio Code](https://chloesun.medium.com/set-up-linux-dev-environment-on-windows-machine-with-wsl2-docker-and-vs-code-25f167aa71ab?sk=49a55f446e1c186c9815c9232303ba5c)
 - [Set up PostgreSQL on WSL2 and Access with pgAdmin on Windows](https://chloesun.medium.com/set-up-postgresql-on-wsl2-and-connect-to-postgresql-with-pgadmin-on-windows-ca7f0b7f38ab?sk=ea75b812297a3f276931a7b38ef6c6ef)
