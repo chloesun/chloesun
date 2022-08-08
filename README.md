@@ -4,7 +4,7 @@
 
 
 ## 👩‍💻 About me
-- 🏗️ I'm an licensed architect in Province Ontario, Canada
+- 🏗️ I'm a licensed architect in the Province of Ontario, Canada
 - 💻 I'm a software developer currently working on design technology with [HOK](https://www.hok.com/), and previously with [Shopify](https://www.shopify.com/)
 - 🎮 I guess I'm also a technical artist wannabe because I'm learning Houdini and Unreal engine
 - 🎨 I like to draw
