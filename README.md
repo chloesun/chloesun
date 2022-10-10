@@ -25,6 +25,7 @@
 
 ## ✍️ My Articles
 - [Architecting the Metaverse](https://chloesun.medium.com/architecting-the-metaverse-106c962ac16d?sk=6f1aefa2d30b4993ef6a73c5ab001a1f)
+- [Envisioning 3D design systems for the Metaverse](https://medium.com/@chloesun/envisioning-3d-design-systems-for-the-metaverse-9d5c39f5ef1c)
 - [What Can Metaverse Planners Learn from Italo Calvino’s Invisible Cities](https://medium.com/@chloesun/what-metaverse-platforms-can-learn-from-italo-calvinos-invisible-cities-dbebbe14d355)
 - [Prehistory of the Metaverse [Translation]](https://chloesun.medium.com/prehistory-of-the-metaverse-translation-57abd572ba3c)
 - [Why Every 3D Designer/Architect Could Benefit From the Creator Economy in the Metaverse?](https://chloesun.medium.com/why-every-3d-designer-architect-could-benefit-from-the-creator-economy-in-the-metaverse-9cbdcc8319b0)
