@@ -24,7 +24,8 @@
 <br>
 
 ## 📖 My Books
-- [101 Reasons Not to Go to Work](https://www.amazon.com/dp/B0CYKXTM18)
+-  [101 Reasons Not to Go to Work(Amazon)](https://www.amazon.com/dp/B0CYKXTM18) 
+- [101 Reasons Not to Go to Work(Apple Books](https://books.apple.com/us/book/101-reasons-not-to-go-to-work/id6578462043) 
   
 <br>
 
