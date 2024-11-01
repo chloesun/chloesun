@@ -49,6 +49,6 @@
 
 ## ✉️ Get in Touch
 <a href="https://www.linkedin.com/in/chloe-c-s-955a22114/">
-  <img align="left" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" width="22px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />
 </a>
 
