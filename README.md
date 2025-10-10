@@ -34,6 +34,7 @@
 - [Envisioning 3D design systems for the Metaverse](https://medium.com/@chloesun/envisioning-3d-design-systems-for-the-metaverse-9d5c39f5ef1c)
 - [What Can Metaverse Planners Learn from Italo Calvino’s Invisible Cities](https://medium.com/@chloesun/what-metaverse-platforms-can-learn-from-italo-calvinos-invisible-cities-dbebbe14d355)
 - [Houdini: A Procedural Powerhouse for Spatial Intelligence Research](https://medium.com/design-bootcamp/houdini-a-procedural-powerhouse-for-3d-world-model-training-53f6cea7c04b)
+- [Finding the Sweet Spot: Balancing AI Learning and Rule-Based Reasoning in AEC Industry](https://chloesun.medium.com/finding-the-sweet-spot-balancing-ai-learning-and-rule-based-reasoning-in-aec-industry-28c28af0df5b)
 - [I curated a picture book for Amazon KDP with ChatGPT, and it wasn’t that easy](https://bootcamp.uxdesign.cc/i-curated-a-picture-book-for-amazon-kdp-with-chatgpt-and-it-wasnt-that-easy-e17be1d3d408)
 - [Prehistory of the Metaverse [Translation]](https://chloesun.medium.com/prehistory-of-the-metaverse-translation-57abd572ba3c)
 - [Why Every 3D Designer/Architect Could Benefit From the Creator Economy in the Metaverse?](https://chloesun.medium.com/why-every-3d-designer-architect-could-benefit-from-the-creator-economy-in-the-metaverse-9cbdcc8319b0)
